@@ -5,6 +5,6 @@
     <artifactId>jcr-base</artifactId>
     <version>1.0</version>
   </parent>
-  <groupId>com.amb.mrcs.jcr.core</groupId>
+  <groupId>com.amb.mrcs.jcr</groupId>
   <artifactId>jcr-core</artifactId>
 </project>
